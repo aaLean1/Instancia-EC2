@@ -2,6 +2,7 @@
 
 # regra do IAM Role 
 
+#Policy para ativar a permissão da EC2
 {
   "Version": "2012-10-17",
   "Statement": [{
